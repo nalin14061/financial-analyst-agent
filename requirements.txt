@@ -1,11 +1,9 @@
 ﻿streamlit
 groq
-yfinance
 requests
 beautifulsoup4
 pandas
 plotly
 python-dotenv
 lxml
-pandas-ta
 reportlab
